@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a new dev 
 
 <!--
 **jacobziemba-dev/jacobziemba-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
