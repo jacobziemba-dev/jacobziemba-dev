@@ -1,17 +1,28 @@
-## Hi there 👋
-I am a new dev 
+## Hi, I'm Jacob 👋
 
-<!--
-**jacobziemba-dev/jacobziemba-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer learning by building small projects and improving my skills step by step.
 
-Here are some ideas to get you started:
+### About me
+- 🌱 Currently learning: Git, GitHub, and software development fundamentals
+- 🔭 Working on: improving my profile and building projects
+- 💡 Interested in: writing clean, useful code
+- 🤝 Open to: learning, collaborating, and growing as a developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Add your best projects here
+- Include a short description of what each project does
+- Link to the repo or live demo when available
+
+### Skills
+- **Languages:** [add your languages]
+- **Tools:** Git, GitHub, VS Code
+- **Frameworks/Libraries:** [add what you use]
+
+### Connect with me
+- GitHub: https://github.com/jacobziemba-dev
+- LinkedIn: [add your link]
+- Portfolio: [add your link]
+- Email: [add your email]
+
+### Fun fact
+- I’m building my developer journey one project at a time.
